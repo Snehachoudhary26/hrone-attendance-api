@@ -1,0 +1,15 @@
+# Environments & Secrets
+.env
+.venv/
+env/
+venv/
+venv*/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS Files
+.DS_Store
